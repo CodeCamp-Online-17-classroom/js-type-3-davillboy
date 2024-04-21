@@ -9,3 +9,5 @@ let a = undefined;
 let b = ' ';
 let c = !b;
 ```
+
+ชัยรัตน์ ทรัพย์สนอง (ตูน)
